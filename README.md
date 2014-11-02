@@ -1,4 +1,4 @@
-CurrentTime Scirpt
+CurrentTime Script
 ==================
 
 Get the current time, based on a defined source time
