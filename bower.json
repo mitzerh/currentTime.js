@@ -1,0 +1,9 @@
+{
+	"name": "CurrentTime",
+	"version": "1.0.0",
+	"main": "js/CurrentTime.js",
+	"ignore": [
+		"**/*",
+		"!js/CurrentTime.js"
+	]
+}
